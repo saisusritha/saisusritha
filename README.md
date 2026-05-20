@@ -66,5 +66,4 @@ I am available for:
 ## 📌 More About Me
 
 - 🔗 LinkedIn: www.linkedin.com/in/susritha  
-- 🌐 Portfolio: https://portfolio-ashen-iota-63.vercel.app/ 
-- 📧 Email: r.s.susritha@gmail.com  
+- 🌐 Portfolio: https://portfolio-ashen-iota-63.vercel.app/  
