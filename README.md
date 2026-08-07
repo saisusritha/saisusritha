@@ -9,7 +9,7 @@
 
 ## 🌹 Intro
 
-- 🎓 B.Tech CSE | CGPA: 9.01  
+- 🎓 B.Tech CSE | CGPA: 9.04
 - 💻 Backend-Focused Full Stack Developer  
 - 🚀 Experienced in building REST APIs & scalable web applications  
 - 🤝 Open to freelance & collaboration  
