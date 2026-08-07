@@ -57,7 +57,6 @@
 
 ## 🤝 Freelance & Collaboration
 
-I am available for:
 - Backend API development (Spring Boot / FastAPI)
 - Full-stack web applications (React + REST APIs)
 
