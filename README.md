@@ -64,5 +64,5 @@
 
 ## 📌 More
 
-- 🔗 LinkedIn: www.linkedin.com/in/saisusritha  
+- 🔗 LinkedIn | Codeforces | Leetcode -> @saisusritha
 - 🌐 Portfolio: https://portfolio-ashen-iota-63.vercel.app/  
