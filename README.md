@@ -62,7 +62,7 @@
 
 ---
 
-## 📌 More About Me
+## 📌 More
 
 - 🔗 LinkedIn: www.linkedin.com/in/susritha  
 - 🌐 Portfolio: https://portfolio-ashen-iota-63.vercel.app/  
