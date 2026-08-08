@@ -64,5 +64,5 @@
 
 ## 📌 More
 
-- 🔗 LinkedIn: www.linkedin.com/in/susritha  
+- 🔗 LinkedIn: www.linkedin.com/in/saisusritha  
 - 🌐 Portfolio: https://portfolio-ashen-iota-63.vercel.app/  
