@@ -1,13 +1,4 @@
 <h1 align="center">Hello, World! 👋</h1>
-
-<h2 align="center">SUSRITHA</h2>
-
-<p align="center">
-<b>Digital Specialist Engineer @ Infosys</b>
-<br/>
-Backend-Focused Full Stack Developer
-</p>
-
 <p align="center">
 <a href="https://portfolio-ashen-iota-63.vercel.app/">Portfolio</a>
 &nbsp; | &nbsp;
