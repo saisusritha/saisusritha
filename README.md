@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:FF4FA3,100:5865F2&height=160&section=header&text=DSE%20%40%20Infosys%20%7C%20Backend-Focused%20Full%20Stack%20Developer%20%7C%20Open%20to%20Freelance&fontSize=22&fontColor=ffffff&fontAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:FF4FA3,100:5865F2&height=160&section=header&text=DSE%20%40%20Infosys%20%7C%20Backend-Focused%20Full%20Stack%20Developer%20%7C%20Open%20to%20Freelance&fontSize=22&fontColor=ffffff&fontAlignY=55&animation=fadeIn" />
 </p>
 
 <h2 align="center">🌸 TECH PROFILE</h2>
@@ -27,37 +27,28 @@
 <h2 align="center">⚡ TECH STACK</h2>
 
 <h3 align="center">💻 Languages</h3>
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript&theme=dark" />
 </p>
 
 <h3 align="center">🎨 Frontend</h3>
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react&theme=dark" />
 </p>
 
 <h3 align="center">⚙️ Backend</h3>
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=spring,fastapi&theme=dark" />
 </p>
 
 <h3 align="center">🗄️ Databases</h3>
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" />
 </p>
 
 <h3 align="center">🛠️ Tools & Platforms</h3>
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=dark" />
-</p>
-
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,50:FF4FA3,100:5865F2&height=3" />
 </p>
 
 <h2 align="center">🚀 WHAT I BUILD</h2>
@@ -107,17 +98,18 @@ DSA
 <p align="center">
 Exploring backend engineering, system design and scalable applications.
 </p>
-💼 Freelance & Collaboration
+
+<h2 align="center">🤝 FREELANCE & COLLABORATION</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/OPEN_TO-FREELANCE_PROJECTS-FF4FA3?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LET'S_BUILD-SOMETHING-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OPEN_TO-COLLABORATIONS-8A2BE2?style=for-the-badge" />
 </p>
 
 <p align="center">
-Available for freelance projects, backend development and full-stack collaborations.
+Available for freelance projects in backend development and full-stack web applications.
 <br/>
-Have an interesting idea? Let's bring it to life!
+Have a project in mind? Let's build something great together!
 </p>
 
 <p align="center">
@@ -125,7 +117,14 @@ Have an interesting idea? Let's bring it to life!
 <img src="https://img.shields.io/badge/✉️_HIRE_ME-5865F2?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://portfolio-ashen-iota-63.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_MY_WORK-FF4FA3?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/🌐_VIEW_MY_WORK-FF4FA3?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 </p>
 
+<p align="center">
+<i>Somewhere between logic, creativity & a little bit of chaos. ✨</i>
+</p>
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5865F2,50:FF4FA3,100:8A2BE2&height=130&section=footer" />
+</p>
