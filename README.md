@@ -2,7 +2,7 @@
 <h1 align="center">Hello, World! 👋</h1>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:130911,30:351021,65:702B48,100:B58A70&height=160&section=header&text=Digital%20Specialist%20Engineer&fontSize=30&fontColor=F7E8E5&fontAlignY=42&desc=INFOSYS%20%7C%20BACKEND-FOCUSED%20FULL%20STACK%20DEVELOPER&descSize=12&descAlignY=65&descColor=E5C8D0"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:130911,30:351021,65:702B48,100:B58A70&height=160&section=header&text=&fontSize=30&fontColor=F7E8E5&fontAlignY=42&desc=DSE @ INFOSYS%20%7C%20BACKEND-FOCUSED%20FULL%20STACK%20DEVELOPER&descSize=12&descAlignY=65&descColor=E5C8D0"/>
 </p>
 
 <p align="center">
