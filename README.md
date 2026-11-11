@@ -2,19 +2,13 @@
 <h1 align="center">Hello, World! 👋</h1>
 
 <p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:130911,30:351021,65:702B48,100:B58A70&height=160&section=header&text=Digital%20Specialist%20Engineer&fontSize=30&fontColor=F7E8E5&fontAlignY=42&desc=INFOSYS%20%7C%20BACKEND-FOCUSED%20FULL%20STACK%20DEVELOPER&descSize=12&descAlignY=65&descColor=E5C8D0"/>
+</p>
+
+<p align="center">
   <a href="https://portfolio-ashen-iota-63.vercel.app/">Portfolio</a>
   &nbsp; ✦ &nbsp;
   <a href="mailto:r.s.susritha@gmail.com">Email</a>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:130911,30:351021,65:702B48,100:B58A70&height=170&section=header&text=DSE%20%40%20Infosys&fontSize=34&fontColor=F7E8E5&fontAlignY=42&desc=Backend-Focused%20Full%20Stack%20Developer%20%7C%20Open%20to%20Freelance&descSize=13&descAlignY=65&descColor:E5C8D0"/>
-</p>
-
-<p align="center">
-  <strong>Digital Specialist Engineer @ Infosys</strong>
-  &nbsp; | &nbsp;
-  <strong>Backend-Focused Full Stack Developer</strong>
 </p>
 
 ---
@@ -247,16 +241,6 @@ Software development projects
 </div>
 
 ---
-
-<div align="center">
-
-<h2>CONNECT</h2>
-
-<a href="https://portfolio-ashen-iota-63.vercel.app/">Portfolio</a>
-&nbsp; | &nbsp;
-<a href="mailto:r.s.susritha@gmail.com">r.s.susritha@gmail.com</a>
-
-</div>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B58A70,35:702B48,70:351021,100:130911&height=115&section=footer"/>
