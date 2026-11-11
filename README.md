@@ -1,68 +1,103 @@
-<h1 align="center">Hello, World 👋</h1>
-<h3 align="center">Backend-Focused Full Stack Developer | Open to Freelance 🤝</h3>
+<h1 align="center">Hello, World! 👋</h1>
+
+<h3 align="center">Backend-Focused Full Stack Developer ✦ Incoming DSE @ Infosys</h3>
 
 <p align="center">
-  🎨 Building with intention.
+<a href="https://portfolio-ashen-iota-63.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_PORTFOLIO-Visit_My_World-9B72CF?style=for-the-badge" />
+</a>
+<a href="mailto:r.s.susritha@gmail.com">
+<img src="https://img.shields.io/badge/✉️_EMAIL-Get_In_Touch-black?style=for-the-badge" />
+</a>
 </p>
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=9B72CF&height=2&section=header" />
+</p>
 
-## 🌹 Intro
+🌷 A Little About Me
+yaml
+name: Susritha
+education: B.Tech - Computer Science & Engineering
+cgpa: 9.04
+currently: Incoming Digital Specialist Engineer @ Infosys
+focus: Backend Engineering & Full Stack Development
+interests:
+  - Scalable Backend Systems
+  - REST API Development
+  - Data Structures & Algorithms
+  - Building cool things with code
 
-- 🎓 B.Tech CSE | CGPA: 9.04
-- 💻 Backend-Focused Full Stack Developer  
-- 🚀 Experienced in building REST APIs & scalable web applications  
-- 🤝 Open to freelance & collaboration  
-- 🧠 Strong foundation in Data Structures & Algorithms  
+✦ My Tech Universe
 
----
+01 / Languages
 
-## 😎 Tech Stack
-
-###  Languages
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript&theme=dark" />
 </p>
 
-###  Frontend
+02 / Frontend
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img src="https://skillicons.dev/icons?i=react&theme=dark" />
 </p>
 
-###  Backend
+03 / Backend
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40"/>
+<img src="https://skillicons.dev/icons?i=spring,fastapi&theme=dark" />
 </p>
 
-###  Databases
+04 / Databases
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" />
 </p>
 
-###  Tools
+05 / Tools & Platforms
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=dark" />
 </p>
 
----
+⚡ Things I Build
+Area	What I work with
+Backend	Spring Boot, FastAPI, REST APIs
+Frontend	React, JavaScript, TypeScript
+Databases	PostgreSQL, MySQL, MongoDB, Redis
+Problem Solving	DSA, logical thinking
+Development	Scalable applications & backend systems
+💼 The Next Chapter
 
-## 🤝 Freelance & Collaboration
+<p align="center">
+<img src="https://img.shields.io/badge/UP_NEXT-DIGITAL_SPECIALIST_ENGINEER-9B72CF?style=for-the-badge" />
+</p>
 
-- Backend API development (Spring Boot / FastAPI)
-- Full-stack web applications (React + REST APIs)
+<h3 align="center">Infosys ✦ 2026</h3>
 
----
+<p align="center">
+New role. New challenges. New things to build.
+</p>
 
-## 📌 More
+🤝 Freelance & Collaboration
+Backend API Development — Spring Boot / FastAPI
+Full-Stack Web Applications — React + REST APIs
+Open to interesting projects and collaborations.
+🌐 Let's Connect
 
-- 🔗 LinkedIn | Codeforces | Leetcode -> @saisusritha
-- 🌐 Portfolio: https://portfolio-ashen-iota-63.vercel.app/  
+<p align="center">
+<a href="https://portfolio-ashen-iota-63.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-9B72CF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="mailto:r.s.susritha@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D46A8C?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+<p align="center">
+<i>「 Less talk, more code. 」</i>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9B72CF&height=100&section=footer" />
+</p>
