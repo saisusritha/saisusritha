@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=38&pause=1000&color=F2BFD4&center=true&vCenter=true&width=450&lines=Hello%2C+World! alt="Hello, World!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=38&pause=1000&color=F2BFD4&center=true&vCenter=true&width=450&lines=Hello%2C+World!%2C alt="Hello, World!"/>
 </h1>
 
 <p align="center">
