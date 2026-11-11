@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-ashen-iota-63.vercel.app/">Portfolio</a>
+  <a href="https://portfolio-ashen-iota-63.vercel.app/">https://portfolio-ashen-iota-63.vercel.app/</a>
   &nbsp; ✦ &nbsp;
-  <a href="mailto:r.s.susritha@gmail.com">Email</a>
+  <a href="mailto:r.s.susritha@gmail.com">r.s.susritha@gmail.com</a>
 </p>
 
 ---
