@@ -107,5 +107,25 @@ DSA
 <p align="center">
 Exploring backend engineering, system design and scalable applications.
 </p>
+💼 Freelance & Collaboration
 
+<p align="center">
+<img src="https://img.shields.io/badge/OPEN_TO-FREELANCE_PROJECTS-FF4FA3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LET'S_BUILD-SOMETHING-8A2BE2?style=for-the-badge" />
+</p>
+
+<p align="center">
+Available for freelance projects, backend development and full-stack collaborations.
+<br/>
+Have an interesting idea? Let's bring it to life!
+</p>
+
+<p align="center">
+<a href="mailto:r.s.susritha@gmail.com">
+<img src="https://img.shields.io/badge/✉️_HIRE_ME-5865F2?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://portfolio-ashen-iota-63.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_MY_WORK-FF4FA3?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+</p>
 
