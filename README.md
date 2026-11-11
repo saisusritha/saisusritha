@@ -1,29 +1,23 @@
 
-<h1 align="center">Susritha</h1>
-
-<h3 align="center">Digital Specialist Engineer @ Infosys</h3>
-
-<p align="center">
-  Backend-Focused Full Stack Developer
-</p>
+<h1 align="center">Hello, World! 👋</h1>
 
 <p align="center">
   <a href="https://portfolio-ashen-iota-63.vercel.app/">Portfolio</a>
-  &nbsp; | &nbsp;
+  &nbsp; ✦ &nbsp;
   <a href="mailto:r.s.susritha@gmail.com">Email</a>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:100B10,45:40182B,100:A45B73&height=170&section=header&text=Susritha&fontSize=38&fontColor=F6E8EC&fontAlignY=45&desc=Backend-Focused%20Full%20Stack%20Developer&descSize=14&descAlignY=67&descColor=E6C5D0"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10070C,35:35101F,70:672B43,100:B58A70&height=200&section=header&text=DSE%20%40%20Infosys&fontSize=34&fontColor=F8E9E5&fontAlignY=40&desc=Backend-Focused%20Full%20Stack%20Developer%20%7C%20Open%20to%20Freelance&descSize=13&descAlignY=63&descColor:E4C8C5"/>
 </p>
 
-## Profile
+<h2 align="center">PROFILE</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**Education**
+**EDUCATION**
 
 B.Tech in Computer Science & Engineering
 
@@ -31,22 +25,22 @@ B.Tech in Computer Science & Engineering
 
 9.04
 
-**Current Role**
+**CURRENT ROLE**
 
 Digital Specialist Engineer @ Infosys
 
 </td>
 <td width="50%" valign="top">
 
-**Primary Focus**
+**PRIMARY FOCUS**
 
 Backend Engineering & Full Stack Development
 
-**Core Interests**
+**CORE INTERESTS**
 
 REST APIs, Scalable Applications & Data Structures and Algorithms
 
-**Availability**
+**AVAILABILITY**
 
 Open to Freelance & Collaboration
 
@@ -54,45 +48,53 @@ Open to Freelance & Collaboration
 </tr>
 </table>
 
-## Tech Stack
+<p align="center">
+  <img width="45%" src="https://capsule-render.vercel.app/api?type=rect&color=8B5264&height=2"/>
+</p>
 
-**Programming Languages**
+<h2 align="center">TECH STACK</h2>
+
+<p align="center"><b>Programming Languages</b></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript&theme=dark"/>
 </p>
 
-**Frontend Development**
+<p align="center"><b>Frontend Development</b></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react&theme=dark"/>
 </p>
 
-**Backend Development**
+<p align="center"><b>Backend Development</b></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=spring,fastapi&theme=dark"/>
 </p>
 
-**Databases & Caching**
+<p align="center"><b>Databases & Caching</b></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark"/>
 </p>
 
-**Tools & Platforms**
+<p align="center"><b>Tools & Platforms</b></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=dark"/>
 </p>
 
-## What I Build
+<p align="center">
+  <img width="45%" src="https://capsule-render.vercel.app/api?type=rect&color=8B5264&height=2"/>
+</p>
+
+<h2 align="center">WHAT I BUILD</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Backend Engineering
+<h3 align="center">Backend Engineering</h3>
 
 - REST API development
 - Backend services
@@ -102,7 +104,7 @@ Open to Freelance & Collaboration
 </td>
 <td width="50%" valign="top">
 
-### Full Stack Development
+<h3 align="center">Full Stack Development</h3>
 
 - Frontend development
 - API integration
@@ -114,7 +116,7 @@ Open to Freelance & Collaboration
 <tr>
 <td width="50%" valign="top">
 
-### Database Management
+<h3 align="center">Database Management</h3>
 
 - Relational databases
 - NoSQL databases
@@ -123,7 +125,7 @@ Open to Freelance & Collaboration
 </td>
 <td width="50%" valign="top">
 
-### Problem Solving
+<h3 align="center">Problem Solving</h3>
 
 - Data Structures
 - Algorithms
@@ -133,13 +135,17 @@ Open to Freelance & Collaboration
 </tr>
 </table>
 
-## Freelance & Collaboration
-
 <p align="center">
-  <img src="https://img.shields.io/badge/OPEN_TO_FREELANCE_PROJECTS_&_COLLABORATIONS-A45B73?style=flat-square&labelColor=21121A"/>
+  <img width="45%" src="https://capsule-render.vercel.app/api?type=rect&color=8B5264&height=2"/>
 </p>
 
-Interested in working on:
+<h2 align="center">FREELANCE & COLLABORATION</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OPEN_TO_FREELANCE_PROJECTS_%26_COLLABORATIONS-8B5264?style=for-the-badge&labelColor=211019&logoColor=F8E9E5"/>
+</p>
+
+**Interested in working on:**
 
 - Backend API development using Spring Boot and FastAPI.
 - Full-stack web applications using React and REST APIs.
@@ -150,14 +156,18 @@ Interested in working on:
   <a href="mailto:r.s.susritha@gmail.com">r.s.susritha@gmail.com</a>
 </p>
 
-## Connect
+<p align="center">
+  <img width="45%" src="https://capsule-render.vercel.app/api?type=rect&color=8B5264&height=2"/>
+</p>
+
+<h2 align="center">CONNECT</h2>
 
 <p align="center">
   <a href="https://portfolio-ashen-iota-63.vercel.app/">Portfolio</a>
-  &nbsp; | &nbsp;
+  &nbsp; ✦ &nbsp;
   <a href="mailto:r.s.susritha@gmail.com">Email</a>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A45B73,50:40182B,100:100B10&height=110&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B58A70,35:672B43,70:35101F,100:10070C&height=130&section=footer"/>
 </p>
