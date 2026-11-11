@@ -1,6 +1,3 @@
-
-<h1 align="center">Hello, World! 👋</h1>
-
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:130911,35:351021,70:702B48,100:B58A70&height=155&section=header"/>
 </p>
