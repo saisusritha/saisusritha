@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello, World! 👋</h1>
+<h1 align="center"> DSE @ Infosys | Open to Freelance & Collaboration</h1>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:151117,35:29202A,70:704B61,100:F0BBD2&height=150&section=header"/>
