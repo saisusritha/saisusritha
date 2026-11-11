@@ -13,9 +13,12 @@
 
 ---
 
-<div align="center">
+<!-- PROFILE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=000000&height=65&text=PROFILE&fontSize=28&fontColor=B58A70&fontAlignY=55&desc=EDUCATION%20%26%20PROFESSIONAL%20BACKGROUND&descSize=10&descColor=D9B5C1"/>
+</p>
 
-<h2>PROFILE</h2>
+<div align="center">
 
 <table align="center" width="100%">
 <tr>
@@ -74,9 +77,10 @@ Open to Freelance & Collaboration
 
 ---
 
-<div align="center">
-
-<h2>TECH STACK</h2>
+<!-- TECH STACK -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=000000&height=65&text=TECH%20STACK&fontSize=28&fontColor=C58A9E&fontAlignY=55&desc=TECHNOLOGIES%20%26%20TOOLS&descSize=10&descColor=B58A70"/>
+</p>
 
 <table align="center" width="100%">
 <tr>
@@ -122,13 +126,12 @@ Open to Freelance & Collaboration
 </tr>
 </table>
 
-</div>
-
 ---
 
-<div align="center">
-
-<h2>WHAT I BUILD</h2>
+<!-- WHAT I BUILD -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=000000&height=65&text=WHAT%20I%20BUILD&fontSize=28&fontColor=B58A70&fontAlignY=55&desc=AREAS%20OF%20EXPERTISE&descSize=10&descColor=D9B5C1"/>
+</p>
 
 <table align="center" width="100%">
 <tr>
@@ -191,16 +194,15 @@ Open to Freelance & Collaboration
 </tr>
 </table>
 
-</div>
-
 ---
 
-<div align="center">
-
-<h2>FREELANCE & COLLABORATION</h2>
+<!-- FREELANCE & COLLABORATION -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=000000&height=65&text=FREELANCE%20%26%20COLLABORATION&fontSize=23&fontColor=C58A9E&fontAlignY=55&desc=PROJECTS%20%26%20COLLABORATIONS&descSize=10&descColor=B58A70"/>
+</p>
 
 <p align="center">
-<strong>OPEN TO FREELANCE PROJECTS & COLLABORATIONS</strong>
+  <strong>OPEN TO FREELANCE PROJECTS & COLLABORATIONS</strong>
 </p>
 
 <table align="center" width="100%">
@@ -238,9 +240,18 @@ Software development projects
 </tr>
 </table>
 
-</div>
-
 ---
+
+<!-- CONNECT -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=000000&height=65&text=CONNECT&fontSize=28&fontColor=B58A70&fontAlignY=55"/>
+</p>
+
+<p align="center">
+  <a href="https://portfolio-ashen-iota-63.vercel.app/">Portfolio</a>
+  &nbsp; ✦ &nbsp;
+  <a href="mailto:r.s.susritha@gmail.com">Email</a>
+</p>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B58A70,35:702B48,70:351021,100:130911&height=115&section=footer"/>
