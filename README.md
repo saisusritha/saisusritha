@@ -1,87 +1,102 @@
 
-<h1 align="center">SUSRITHA.</h1>
+<h1 align="center">Hello, World! ✦</h1>
 
-<h3 align="center">Digital Specialist Engineer @ Infosys</h3>
+<h3 align="center">SUSRITHA</h3>
 
 <p align="center">
-  <i>Backend-Focused Full Stack Developer · Open to Freelance</i>
+  <i>Digital Specialist Engineer @ Infosys</i>
+  <br/>
+  Backend-Focused Full Stack Developer
 </p>
 
 <p align="center">
-  <a href="https://portfolio-ashen-iota-63.vercel.app/">Portfolio ↗</a>
-  &nbsp;&nbsp; | &nbsp;&nbsp;
-  <a href="mailto:r.s.susritha@gmail.com">Get in touch ↗</a>
+  <a href="https://portfolio-ashen-iota-63.vercel.app/">Portfolio</a>
+  &nbsp; ✧ &nbsp;
+  <a href="mailto:r.s.susritha@gmail.com">Email</a>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:09090F,50:29243D,100:7666A8&height=3"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101C29,50:164B4B,100:B49A70&height=190&section=header&text=Building%20Beyond%20The%20Ordinary&fontSize=27&fontColor=F5EFE3&fontAlignY=48&desc=Backend%20Engineering%20%7C%20Full%20Stack%20Development&descSize=13&descAlignY=68&descColor=D5C9B5"/>
 </p>
 
-## 01 — A LITTLE ABOUT ME
+<br/>
+
+<h2 align="center">ABOUT ME</h2>
 
 <table>
 <tr>
 <td width="65%" valign="top">
 
-B.Tech graduate in Computer Science & Engineering, currently working as a **Digital Specialist Engineer at Infosys**.
+A Computer Science & Engineering graduate currently working as a **Digital Specialist Engineer at Infosys**.
 
-My primary focus is backend engineering and full-stack development, with an interest in REST APIs, scalable applications, and Data Structures and Algorithms.
+My primary focus is Backend Engineering and Full Stack Development, with a keen interest in REST APIs, scalable applications, and Data Structures and Algorithms.
+
+Always curious about how things work behind the scenes and passionate about building meaningful applications.
 
 </td>
-<td width="35%" valign="top" align="center">
+<td width="35%" align="center" valign="middle">
 
 <h1>9.04</h1>
-**CGPA**
+<sub>CGPA</sub>
 
----
+<br/><br/>
 
 **B.Tech**
 
-Computer Science & Engineering
+<sub>Computer Science & Engineering</sub>
+
+<br/><br/>
+
+**Infosys**
+
+<sub>Digital Specialist Engineer</sub>
 
 </td>
 </tr>
 </table>
 
-## 02 — THE TECH STACK
+<br/>
 
-<p align="left"><sub>LANGUAGES</sub></p>
+<h2 align="center">MY TECH STACK</h2>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript&theme=dark"/>
+<p align="center"><sub>01 — PROGRAMMING LANGUAGES</sub></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript&theme=dark"/>
 </p>
 
-<p align="left"><sub>FRONTEND</sub></p>
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react&theme=dark"/>
+<p align="center"><sub>02 — FRONTEND DEVELOPMENT</sub></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react&theme=dark"/>
 </p>
 
-<p align="left"><sub>BACKEND</sub></p>
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=spring,fastapi&theme=dark"/>
+<p align="center"><sub>03 — BACKEND DEVELOPMENT</sub></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,fastapi&theme=dark"/>
 </p>
 
-<p align="left"><sub>DATABASES & CACHING</sub></p>
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark"/>
+<p align="center"><sub>04 — DATABASES & CACHING</sub></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark"/>
 </p>
 
-<p align="left"><sub>TOOLS & PLATFORMS</sub></p>
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=dark"/>
+<p align="center"><sub>05 — TOOLS & PLATFORMS</sub></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=dark"/>
 </p>
 
-## 03 — WHAT I BUILD
+<br/>
+
+<h2 align="center">WHAT I BUILD</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Backend Engineering
+<h3 align="center">✧ Backend Engineering</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,fastapi&theme=dark"/>
+</p>
 
 - REST API development
 - Backend services
@@ -91,7 +106,11 @@ Computer Science & Engineering
 </td>
 <td width="50%" valign="top">
 
-### Full Stack Development
+<h3 align="center">✧ Full Stack Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,ts&theme=dark"/>
+</p>
 
 - Frontend development
 - API integration
@@ -103,7 +122,11 @@ Computer Science & Engineering
 <tr>
 <td width="50%" valign="top">
 
-### Database Management
+<h3 align="center">✧ Database Management</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark"/>
+</p>
 
 - Relational databases
 - NoSQL databases
@@ -112,7 +135,11 @@ Computer Science & Engineering
 </td>
 <td width="50%" valign="top">
 
-### Problem Solving
+<h3 align="center">✧ Problem Solving</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python&theme=dark"/>
+</p>
 
 - Data Structures
 - Algorithms
@@ -122,35 +149,61 @@ Computer Science & Engineering
 </tr>
 </table>
 
-## 04 — OPEN TO OPPORTUNITIES
+<br/>
+
+<h2 align="center">FREELANCE & COLLABORATION</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OPEN_TO_FREELANCE_&_COLLABORATION-7666A8?style=flat-square&labelColor=17151F"/>
+  <img src="https://img.shields.io/badge/OPEN%20TO%20FREELANCE%20PROJECTS%20%26%20COLLABORATIONS-B49A70?style=for-the-badge&labelColor=101C29&logoColor=white"/>
 </p>
 
-Interested in working on:
+<p align="center">
+  <i>Interested in working on:</i>
+</p>
 
-- Backend API development using Spring Boot and FastAPI.
-- Full-stack web applications using React and REST APIs.
-- Database-driven application development.
-- Collaborative software development projects.
+<table>
+<tr>
+<td width="50%" align="center">
+Backend API development using Spring Boot and FastAPI.
+</td>
+<td width="50%" align="center">
+Full-stack web applications using React and REST APIs.
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+Database-driven application development.
+</td>
+<td width="50%" align="center">
+Collaborative software development projects.
+</td>
+</tr>
+</table>
 
-## 05 — FIND ME HERE
+<br/>
+
+<h2 align="center">LET'S CONNECT</h2>
 
 <p align="center">
   <a href="https://portfolio-ashen-iota-63.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-7666A8?style=for-the-badge&labelColor=17151F"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-164B4B?style=for-the-badge&logo=googlechrome&logoColor=F5EFE3"/>
   </a>
   &nbsp;
   <a href="mailto:r.s.susritha@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-AAA2BC?style=for-the-badge&labelColor=17151F"/>
+    <img src="https://img.shields.io/badge/EMAIL-B49A70?style=for-the-badge&logo=gmail&logoColor=101C29"/>
   </a>
 </p>
 
 <p align="center">
-  <sub>BUILD WITH PURPOSE. KEEP EVOLVING.</sub>
+  <a href="mailto:r.s.susritha@gmail.com">r.s.susritha@gmail.com</a>
+</p>
+
+<br/>
+
+<p align="center">
+  <i>Creating. Learning. Evolving.</i>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7666A8,50:29243D,100:09090F&height=100&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B49A70,50:164B4B,100:101C29&height=120&section=footer"/>
 </p>
