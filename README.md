@@ -1,6 +1,5 @@
 <h1 align="center">Hello, World! 👋</h1>
 
-<h2 align="center">SUSRITHA ✨</h2>
 
 <h3 align="center">Backend-Focused Full Stack Developer</h3>
 
@@ -116,21 +115,4 @@ DSA
 Exploring backend engineering, system design and scalable applications.
 </p>
 
-<h2 align="center">🌐 FIND ME HERE</h2>
 
-<p align="center">
-<a href="https://portfolio-ashen-iota-63.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-FF4FA3?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="mailto:r.s.susritha@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-5865F2?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p>
-
-<p align="center">
-<i>Somewhere between logic, creativity & a little bit of chaos. ✨</i>
-</p>
-
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5865F2,50:FF4FA3,100:8A2BE2&height=130&section=footer" />
-</p>
