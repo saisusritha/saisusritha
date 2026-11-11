@@ -1,55 +1,68 @@
-<h1 align="center">Hello, World.</h1>
+<h1 align="center">Hello, World! 👋</h1>
 
 <p align="center">
 <a href="https://portfolio-ashen-iota-63.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-00C9D8?style=for-the-badge&logo=vercel&logoColor=07111F" />
+<img src="https://img.shields.io/badge/PORTFOLIO-00C896?style=for-the-badge&logo=vercel&logoColor=071C18" />
 </a>
 <a href="mailto:r.s.susritha@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-8B7CFF?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/CONTACT-182C27?style=for-the-badge&logo=gmail&logoColor=00C896" />
 </a>
 </p>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101C3A,50:344E9A,100:00C9D8&height=170&section=header&text=DSE%20%40%20Infosys%20%7C%20Backend-Focused%20Full%20Stack%20Developer%20%7C%20Open%20to%20Freelance&fontSize=21&fontColor=ffffff&fontAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:061C16,50:075B43,100:00C896&height=170&section=header&text=DSE%20%40%20Infosys%20%7C%20Backend-Focused%20Full%20Stack%20Developer%20%7C%20Open%20to%20Freelance&fontSize=21&fontColor=E8FFF5&fontAlignY=55&animation=fadeIn" />
 </p>
 
 <h2 align="center">PROFILE</h2>
 
-<p align="justify">
-B.Tech Computer Science and Engineering graduate with a CGPA of 9.04, currently working as a Digital Specialist Engineer at Infosys. Focused on backend engineering, REST API development and full-stack application development. Interested in building scalable systems, solving complex problems and exploring software architecture.
+<p align="center">
+<b>Susritha</b><br/>
+B.Tech Computer Science & Engineering · CGPA 9.04<br/><br/>
+Digital Specialist Engineer @ Infosys<br/>
+Backend-Focused Full Stack Developer
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/ROLE-Digital%20Specialist%20Engineer-00C9D8?style=flat-square" />
-<img src="https://img.shields.io/badge/COMPANY-Infosys-8B7CFF?style=flat-square" />
-<img src="https://img.shields.io/badge/OPEN_TO-FREELANCE-00C9D8?style=flat-square" />
+Focused on backend development, REST API design and scalable web applications.
+Interested in problem solving, building reliable software and exploring new technologies.
 </p>
 
-<h2 align="center">TECHNOLOGIES</h2>
+<p align="center">
+<img src="https://img.shields.io/badge/BACKEND-00C896?style=flat-square" />
+<img src="https://img.shields.io/badge/FULL_STACK-00C896?style=flat-square" />
+<img src="https://img.shields.io/badge/DSA-00C896?style=flat-square" />
+</p>
+
+<h2 align="center">TECH STACK</h2>
 
 <h3 align="center">Languages</h3>
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript&theme=dark" />
 </p>
 
 <h3 align="center">Frontend</h3>
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react&theme=dark" />
 </p>
 
 <h3 align="center">Backend</h3>
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=spring,fastapi&theme=dark" />
 </p>
 
 <h3 align="center">Databases</h3>
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" />
 </p>
 
 <h3 align="center">Tools & Platforms</h3>
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,docker,linux,github&theme=dark" />
 </p>
 
 <h2 align="center">WHAT I BUILD</h2>
@@ -57,7 +70,7 @@ B.Tech Computer Science and Engineering graduate with a CGPA of 9.04, currently 
 <table align="center">
 <tr>
 <td width="50%" align="center">
-<h3>Backend Engineering</h3>
+<h3>Backend Development</h3>
 Spring Boot<br/>
 FastAPI<br/>
 REST API Development<br/>
@@ -83,27 +96,39 @@ Redis
 <h3>Problem Solving</h3>
 Data Structures<br/>
 Algorithms<br/>
-DSA
+Logical Thinking
 </td>
 </tr>
 </table>
 
 <h2 align="center">FREELANCE & COLLABORATION</h2>
 
-<p align="justify">
-Open to freelance opportunities and collaborations involving backend development, REST APIs and full-stack web applications. Available to work on interesting ideas and turn them into functional, reliable software.
+<p align="center">
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_FREELANCE-00C896?style=for-the-badge&logoColor=071C18" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/AVAILABLE-FOR_FREELANCE-00C9D8?style=for-the-badge" />
+Available for freelance projects and collaborations involving backend API development, Spring Boot, FastAPI and full-stack web applications using React.
+</p>
+
+<p align="center">
+Have a project in mind? Get in touch.
 </p>
 
 <p align="center">
 <a href="mailto:r.s.susritha@gmail.com">
-<img src="https://img.shields.io/badge/GET_IN_TOUCH-8B7CFF?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/WORK_WITH_ME-00C896?style=for-the-badge&logo=gmail&logoColor=071C18" />
 </a>
+</p>
+
+<h2 align="center">CONNECT</h2>
+
+<p align="center">
 <a href="https://portfolio-ashen-iota-63.vercel.app/">
-<img src="https://img.shields.io/badge/VIEW_PORTFOLIO-00C9D8?style=for-the-badge&logo=vercel&logoColor=07111F" />
+<img src="https://img.shields.io/badge/PORTFOLIO-00C896?style=for-the-badge&logo=vercel&logoColor=071C18" />
+</a>
+<a href="mailto:r.s.susritha@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-182C27?style=for-the-badge&logo=gmail&logoColor=00C896" />
 </a>
 </p>
 
@@ -112,5 +137,5 @@ Open to freelance opportunities and collaborations involving backend development
 </p>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9D8,50:344E9A,100:101C3A&height=110&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,50:075B43,100:061C16&height=110&section=footer" />
 </p>
