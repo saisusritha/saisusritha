@@ -1,53 +1,49 @@
-<h1 align="center">Hello, World! 👋</h1>
+<h1 align="center">Hello, World.</h1>
+
+<h3 align="center">Susritha</h3>
 
 <p align="center">
-<a href="https://portfolio-ashen-iota-63.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-00C896?style=for-the-badge&logo=vercel&logoColor=071C18" />
-</a>
-<a href="mailto:r.s.susritha@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-182C27?style=for-the-badge&logo=gmail&logoColor=00C896" />
-</a>
-</p>
-
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:061C16,50:075B43,100:00C896&height=170&section=header&text=DSE%20%40%20Infosys%20%7C%20Backend-Focused%20Full%20Stack%20Developer%20%7C%20Open%20to%20Freelance&fontSize=21&fontColor=E8FFF5&fontAlignY=55&animation=fadeIn" />
-</p>
-
-<h2 align="center">PROFILE</h2>
-
-<p align="center">
-<b>Susritha</b><br/>
-B.Tech Computer Science & Engineering · CGPA 9.04<br/><br/>
-Digital Specialist Engineer @ Infosys<br/>
+<b>Digital Specialist Engineer @ Infosys</b>
+<br/>
 Backend-Focused Full Stack Developer
 </p>
 
 <p align="center">
-Focused on backend development, REST API design and scalable web applications.
-Interested in problem solving, building reliable software and exploring new technologies.
+<a href="https://portfolio-ashen-iota-63.vercel.app/">Portfolio</a>
+&nbsp; · &nbsp;
+<a href="mailto:r.s.susritha@gmail.com">Email</a>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/BACKEND-00C896?style=flat-square" />
-<img src="https://img.shields.io/badge/FULL_STACK-00C896?style=flat-square" />
-<img src="https://img.shields.io/badge/DSA-00C896?style=flat-square" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:061C16,50:075B43,100:00C896&height=150&section=header&text=Backend%20Engineering%20%7C%20Full%20Stack%20Development&fontSize=23&fontColor=E8FFF5&fontAlignY=55" />
 </p>
 
-<h2 align="center">TECH STACK</h2>
+<h2 align="center">Profile</h2>
 
-<h3 align="center">Languages</h3>
+<p align="center">
+B.Tech in Computer Science and Engineering with a CGPA of 9.04.
+Currently working as a Digital Specialist Engineer at Infosys, with a focus on backend engineering, REST API development and full-stack applications.
+</p>
+
+<p align="center">
+Interested in scalable systems, database architecture, problem solving and building reliable software.
+</p>
+
+<h2 align="center">Technical Skills</h2>
+
+<h3 align="center">Programming Languages</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript&theme=dark" />
 </p>
 
-<h3 align="center">Frontend</h3>
+<h3 align="center">Frontend Development</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react&theme=dark" />
 </p>
 
-<h3 align="center">Backend</h3>
+<h3 align="center">Backend Development</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=spring,fastapi&theme=dark" />
@@ -62,80 +58,69 @@ Interested in problem solving, building reliable software and exploring new tech
 <h3 align="center">Tools & Platforms</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,docker,linux,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=dark" />
 </p>
 
-<h2 align="center">WHAT I BUILD</h2>
+<h2 align="center">Areas of Focus</h2>
 
 <table align="center">
 <tr>
 <td width="50%" align="center">
-<h3>Backend Development</h3>
-Spring Boot<br/>
-FastAPI<br/>
-REST API Development<br/>
-Scalable Services
+<b>Backend Engineering</b>
+<br/><br/>
+Spring Boot · FastAPI<br/>
+REST APIs · Scalable Services
 </td>
 <td width="50%" align="center">
-<h3>Full Stack Development</h3>
-React<br/>
-JavaScript<br/>
-TypeScript<br/>
-Web Applications
+<b>Full Stack Development</b>
+<br/><br/>
+React · JavaScript<br/>
+TypeScript · Web Applications
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
-<h3>Databases</h3>
-PostgreSQL<br/>
-MySQL<br/>
-MongoDB<br/>
-Redis
+<b>Database Management</b>
+<br/><br/>
+PostgreSQL · MySQL<br/>
+MongoDB · Redis
 </td>
 <td width="50%" align="center">
-<h3>Problem Solving</h3>
+<b>Problem Solving</b>
+<br/><br/>
 Data Structures<br/>
-Algorithms<br/>
-Logical Thinking
+Algorithms · DSA
 </td>
 </tr>
 </table>
 
-<h2 align="center">FREELANCE & COLLABORATION</h2>
+<h2 align="center">Freelance & Collaboration</h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_FREELANCE-00C896?style=for-the-badge&logoColor=071C18" />
+Open to freelance projects and professional collaborations in backend development and full-stack application development.
 </p>
 
 <p align="center">
-Available for freelance projects and collaborations involving backend API development, Spring Boot, FastAPI and full-stack web applications using React.
+<b>Areas of Work</b>
+<br/><br/>
+Backend API Development · Spring Boot · FastAPI<br/>
+React Applications · REST API Integration
 </p>
 
 <p align="center">
-Have a project in mind? Get in touch.
+<a href="mailto:r.s.susritha@gmail.com">Get in touch</a>
+&nbsp; · &nbsp;
+<a href="https://portfolio-ashen-iota-63.vercel.app/">View portfolio</a>
+</p>
+
+<h2 align="center">Contact</h2>
+
+<p align="center">
+<a href="https://portfolio-ashen-iota-63.vercel.app/">Portfolio</a>
+&nbsp; | &nbsp;
+<a href="mailto:r.s.susritha@gmail.com">Email</a>
 </p>
 
 <p align="center">
-<a href="mailto:r.s.susritha@gmail.com">
-<img src="https://img.shields.io/badge/WORK_WITH_ME-00C896?style=for-the-badge&logo=gmail&logoColor=071C18" />
-</a>
-</p>
-
-<h2 align="center">CONNECT</h2>
-
-<p align="center">
-<a href="https://portfolio-ashen-iota-63.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-00C896?style=for-the-badge&logo=vercel&logoColor=071C18" />
-</a>
-<a href="mailto:r.s.susritha@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-182C27?style=for-the-badge&logo=gmail&logoColor=00C896" />
-</a>
-</p>
-
-<p align="center">
-<sub>Designed with intention. Built with logic.</sub>
-</p>
-
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,50:075B43,100:061C16&height=110&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,50:075B43,100:061C16&height=100&section=footer" />
 </p>
