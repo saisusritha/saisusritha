@@ -3,129 +3,124 @@
 
 <p align="center">
   <a href="https://portfolio-ashen-iota-63.vercel.app/">Portfolio</a>
-  &nbsp; ◆ &nbsp;
+  &nbsp; ✦ &nbsp;
   <a href="mailto:r.s.susritha@gmail.com">Email</a>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10070C,35:32101F,70:702D48,100:B58A70&height=180&section=header&text=Digital%20Specialist%20Engineer&fontSize=27&fontColor=F8E9E5&fontAlignY=42&desc=INFOSYS%20%20%7C%20%20BACKEND-FOCUSED%20FULL%20STACK%20DEVELOPER&descSize=12&descAlignY=65&descColor:E2C6CE"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:130911,30:351021,65:702B48,100:B58A70&height=170&section=header&text=DSE%20%40%20Infosys&fontSize=34&fontColor=F7E8E5&fontAlignY=42&desc=Backend-Focused%20Full%20Stack%20Developer%20%7C%20Open%20to%20Freelance&descSize=13&descAlignY=65&descColor:E5C8D0"/>
 </p>
 
 <p align="center">
-  <b>Digital Specialist Engineer @ Infosys</b>
+  <strong>Digital Specialist Engineer @ Infosys</strong>
   &nbsp; | &nbsp;
-  <b>Backend-Focused Full Stack Developer</b>
-  <br/>
-  <sub>Open to Freelance & Collaboration</sub>
+  <strong>Backend-Focused Full Stack Developer</strong>
 </p>
 
 ---
 
-<h2 align="center">PROFILE</h2>
+<div align="center">
 
-<table>
+<h2>PROFILE</h2>
+
+<table align="center" width="100%">
 <tr>
-<td width="50%" valign="middle">
+<td width="50%" align="center">
 
-<h3 align="center">Education</h3>
+<h3>EDUCATION</h3>
 
-<p align="center">
-  <b>B.Tech</b>
-  <br/>
-  Computer Science & Engineering
-</p>
+B.Tech in Computer Science & Engineering
 
 </td>
-<td width="50%" valign="middle">
+<td width="50%" align="center">
 
-<h3 align="center">Academic Performance</h3>
+<h3>ACADEMIC PERFORMANCE</h3>
 
-<h1 align="center">9.04</h1>
-
-<p align="center">CGPA</p>
+<strong>9.04 CGPA</strong>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="middle">
+<td width="50%" align="center">
 
-<h3 align="center">Professional Experience</h3>
+<h3>CURRENT ROLE</h3>
 
-<p align="center">
-  Digital Specialist Engineer
-  <br/>
-  <b>@ Infosys</b>
-</p>
+Digital Specialist Engineer @ Infosys
 
 </td>
-<td width="50%" valign="middle">
+<td width="50%" align="center">
 
-<h3 align="center">Technical Focus</h3>
+<h3>PRIMARY FOCUS</h3>
 
-<p align="center">
-  Backend Engineering
-  <br/>
-  Full Stack Development
-</p>
+Backend Engineering & Full Stack Development
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="middle">
+<td colspan="2" align="center">
 
-<h3 align="center">Areas of Interest</h3>
+<h3>CORE INTERESTS</h3>
 
-<p align="center">
-  REST APIs &nbsp; ◆ &nbsp;
-  Scalable Applications &nbsp; ◆ &nbsp;
-  Data Structures and Algorithms
-</p>
+REST APIs · Scalable Applications · Data Structures and Algorithms
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+<h3>AVAILABILITY</h3>
+
+Open to Freelance & Collaboration
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-<h2 align="center">TECHNOLOGIES & TOOLS</h2>
+<div align="center">
 
-<table>
+<h2>TECH STACK</h2>
+
+<table align="center" width="100%">
 <tr>
-<td width="50%" align="center" valign="middle">
+<td width="50%" align="center">
 
-<h3>Programming Languages</h3>
+<h3>PROGRAMMING LANGUAGES</h3>
 
 <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript&theme=dark"/>
 
 </td>
-<td width="50%" align="center" valign="middle">
+<td width="50%" align="center">
 
-<h3>Frontend Development</h3>
+<h3>FRONTEND DEVELOPMENT</h3>
 
 <img src="https://skillicons.dev/icons?i=react&theme=dark"/>
 
 </td>
 </tr>
 <tr>
-<td width="50%" align="center" valign="middle">
+<td width="50%" align="center">
 
-<h3>Backend Development</h3>
+<h3>BACKEND DEVELOPMENT</h3>
 
 <img src="https://skillicons.dev/icons?i=spring,fastapi&theme=dark"/>
 
 </td>
-<td width="50%" align="center" valign="middle">
+<td width="50%" align="center">
 
-<h3>Databases & Caching</h3>
+<h3>DATABASES & CACHING</h3>
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark"/>
 
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center" valign="middle">
+<td colspan="2" align="center">
 
-<h3>Development Tools & Platforms</h3>
+<h3>TOOLS & PLATFORMS</h3>
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=dark"/>
 
@@ -133,91 +128,115 @@
 </tr>
 </table>
 
+</div>
+
 ---
 
-<h2 align="center">AREAS OF EXPERTISE</h2>
+<div align="center">
 
-<table>
+<h2>WHAT I BUILD</h2>
+
+<table align="center" width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-<h3 align="center">Backend Engineering</h3>
+<h3>BACKEND ENGINEERING</h3>
+
+<p align="left">
 
 - REST API development
 - Backend services
 - Application architecture
 - Scalable web applications
 
-</td>
-<td width="50%" valign="top">
+</p>
 
-<h3 align="center">Full Stack Development</h3>
+</td>
+<td width="50%" align="center" valign="top">
+
+<h3>FULL STACK DEVELOPMENT</h3>
+
+<p align="left">
 
 - Frontend development
 - API integration
 - Responsive applications
 - End-to-end development
 
+</p>
+
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-<h3 align="center">Database Management</h3>
+<h3>DATABASE MANAGEMENT</h3>
+
+<p align="left">
 
 - Relational databases
 - NoSQL databases
 - Data management
 
-</td>
-<td width="50%" valign="top">
+</p>
 
-<h3 align="center">Problem Solving</h3>
+</td>
+<td width="50%" align="center" valign="top">
+
+<h3>PROBLEM SOLVING</h3>
+
+<p align="left">
 
 - Data Structures
 - Algorithms
 - Logical problem solving
 
+</p>
+
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-<h2 align="center">FREELANCE & COLLABORATION</h2>
+<div align="center">
+
+<h2>FREELANCE & COLLABORATION</h2>
 
 <p align="center">
-  <b>OPEN TO FREELANCE PROJECTS & COLLABORATIONS</b>
+<strong>OPEN TO FREELANCE PROJECTS & COLLABORATIONS</strong>
 </p>
 
-<table>
+<table align="center" width="100%">
 <tr>
-<td width="50%" align="center" valign="middle">
+<td width="50%" align="center">
 
-**Backend API Development**
+<h3>BACKEND API DEVELOPMENT</h3>
 
 Spring Boot and FastAPI
 
 </td>
-<td width="50%" align="center" valign="middle">
+<td width="50%" align="center">
 
-**Full-Stack Applications**
+<h3>FULL-STACK APPLICATIONS</h3>
 
 React and REST APIs
 
 </td>
 </tr>
 <tr>
-<td width="50%" align="center" valign="middle">
+<td width="50%" align="center">
 
-**Database Development**
+<h3>DATABASE DEVELOPMENT</h3>
 
 Database-driven applications
 
 </td>
-<td width="50%" align="center" valign="middle">
+<td width="50%" align="center">
 
-**Collaborative Development**
+<h3>COLLABORATIVE DEVELOPMENT</h3>
 
 Software development projects
 
@@ -225,16 +244,20 @@ Software development projects
 </tr>
 </table>
 
+</div>
+
 ---
 
-<h2 align="center">CONNECT</h2>
+<div align="center">
+
+<h2>CONNECT</h2>
+
+<a href="https://portfolio-ashen-iota-63.vercel.app/">Portfolio</a>
+&nbsp; | &nbsp;
+<a href="mailto:r.s.susritha@gmail.com">r.s.susritha@gmail.com</a>
+
+</div>
 
 <p align="center">
-  <a href="https://portfolio-ashen-iota-63.vercel.app/">Portfolio</a>
-  &nbsp; ◆ &nbsp;
-  <a href="mailto:r.s.susritha@gmail.com">r.s.susritha@gmail.com</a>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B58A70,35:702D48,70:32101F,100:10070C&height=115&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B58A70,35:702B48,70:351021,100:130911&height=115&section=footer"/>
 </p>
