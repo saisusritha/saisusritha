@@ -1,99 +1,111 @@
-Hello, World.
-
-<h3 align="center">SUSRITHA</h3>
+<h1 align="center">Hello, World! 👋</h1>
 
 <p align="center">
-<b>Digital Specialist Engineer @ Infosys</b><br/>
+<b>SUSRITHA</b>
+<br/>
+Digital Specialist Engineer @ Infosys
+<br/>
 Backend-Focused Full Stack Developer
 </p>
 
 <p align="center">
 <a href="https://portfolio-ashen-iota-63.vercel.app/">Portfolio</a>
-&nbsp; | &nbsp;
+&nbsp; • &nbsp;
 <a href="mailto:r.s.susritha@gmail.com">Email</a>
 </p>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071A14,50:075B43,100:00A878&height=150&section=header&text=ENGINEERING%20%7C%20DEVELOPMENT%20%7C%20DESIGN&fontSize=20&fontColor=E5F5EC&fontAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:061C16,50:075B43,100:00C896&height=170&section=header&text=DSE%20%40%20Infosys%20%7C%20Backend-Focused%20Full%20Stack%20Developer%20%7C%20Open%20to%20Freelance&fontSize=21&fontColor=E8FFF5&fontAlignY=55" />
 </p>
 
-Profile
+PROFILE
 
 <p align="justify">
-B.Tech Computer Science and Engineering graduate with a CGPA of 9.04. Currently working as a Digital Specialist Engineer at Infosys. Focused on backend engineering, REST API development and full-stack web applications, with a strong foundation in Data Structures and Algorithms.
+B.Tech Computer Science and Engineering graduate with a CGPA of 9.04. Currently working as a Digital Specialist Engineer at Infosys. Focused on backend development, REST API design and full-stack web applications, with a strong foundation in Data Structures and Algorithms.
 </p>
 
-<p align="justify">
-Interested in designing reliable backend systems, working with databases and developing scalable software solutions.
-</p>
+TECH STACK
 
-Technical Skills
-
-Languages
-
+<p align="center"><b>LANGUAGES</b></p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript&theme=dark" />
 </p>
 
-Frontend
-
+<p align="center"><b>FRONTEND</b></p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react&theme=dark" />
 </p>
 
-Backend
-
+<p align="center"><b>BACKEND</b></p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=spring,fastapi&theme=dark" />
 </p>
 
-Databases
-
+<p align="center"><b>DATABASES</b></p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" />
 </p>
 
-Tools
-
+<p align="center"><b>TOOLS</b></p>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,docker,linux,github&theme=dark" />
 </p>
 
-Areas of Expertise
-Backend Development	Full Stack Development
-Spring Boot	React
-FastAPI	JavaScript
-REST API Design	TypeScript
-Scalable Services	Web Applications
-Databases	Problem Solving
-PostgreSQL	Data Structures
-MySQL	Algorithms
-MongoDB	Logical Thinking
-Redis	DSA
-Professional Experience
+WHAT I DO
 
-Digital Specialist Engineer — Infosys
+<table>
+<tr>
+<td width="50%" align="center">
+<b>Backend Development</b>
+<br/><br/>
+Spring Boot<br/>
+FastAPI<br/>
+REST API Development
+</td>
+<td width="50%" align="center">
+<b>Full Stack Development</b>
+<br/><br/>
+React<br/>
+JavaScript<br/>
+TypeScript
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<b>Databases</b>
+<br/><br/>
+PostgreSQL<br/>
+MySQL<br/>
+MongoDB · Redis
+</td>
+<td width="50%" align="center">
+<b>Problem Solving</b>
+<br/><br/>
+Data Structures<br/>
+Algorithms<br/>
+DSA
+</td>
+</tr>
+</table>
 
-Currently working in software engineering, with interests in backend development, application architecture and scalable systems.
-
-Freelance & Collaboration
+FREELANCE & COLLABORATION
 
 <p align="justify">
-Open to freelance opportunities and collaborations involving backend API development and full-stack web applications. Available for projects using Spring Boot, FastAPI, React and REST APIs.
+Open to freelance opportunities and collaborations in backend development and full-stack application development.
 </p>
 
-Services
-
-Backend API development
-Full-stack web application development
-REST API integration
-Database-driven applications
-Contact
-
-Portfolio: https://portfolio-ashen-iota-63.vercel.app/
-
-Email: r.s.susritha@gmail.com
+Backend API development using Spring Boot and FastAPI
+Full-stack applications using React and REST APIs
+Database-driven application development
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00A878,50:075B43,100:071A14&height=100&section=footer" />
+<b>Portfolio</b><br/>
+https://portfolio-ashen-iota-63.vercel.app/
+<br/><br/>
+<b>Email</b><br/>
+r.s.susritha@gmail.com
+</p>
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,50:075B43,100:061C16&height=110&section=footer" />
 </p>
