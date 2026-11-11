@@ -1,12 +1,5 @@
 <h1 align="center">Hello, World! 👋</h1>
 
-
-<h3 align="center">Backend-Focused Full Stack Developer</h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/💜_DIGITAL_SPECIALIST_ENGINEER-Infosys-8A2BE2?style=for-the-badge" />
-</p>
-
 <p align="center">
 <a href="https://portfolio-ashen-iota-63.vercel.app/">
 <img src="https://img.shields.io/badge/✦_MY_PORTFOLIO-FF4FA3?style=for-the-badge&logo=vercel&logoColor=white" />
