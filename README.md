@@ -13,7 +13,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:FF4FA3,100:5865F2&height=160&section=header&text=DSE%20%40%20Infosys%20%7C%20Backend-Focused%20Full%20Stack%20Developer%20%7C%20Open%20to%20Freelance&fontSize=22&fontColor=ffffff&fontAlignY=55&animation=fadeIn" />
 </p>
 
-<h2 align="center">🌸 ABOUT ME</h2>
+<h2 align="center">🌸 TECH PROFILE</h2>
 
 <p align="center">
 🎓 <b>B.Tech Computer Science & Engineering</b> · CGPA 9.04<br/><br/>
