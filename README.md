@@ -2,7 +2,7 @@
 <h1 align="center">Hello, World! 👋</h1>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:130911,30:351021,65:702B48,100:B58A70&height=160&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:130911,35:351021,70:702B48,100:B58A70&height=155&section=header"/>
 </p>
 
 <p align="center">
@@ -13,41 +13,46 @@
 
 ---
 
-<!-- PROFILE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=000000&height=65&text=PROFILE&fontSize=28&fontColor=B58A70&fontAlignY=55&desc=EDUCATION%20%26%20PROFESSIONAL%20BACKGROUND&descSize=10&descColor=D9B5C1"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:351021,100:702B48&height=58&section=header&text=PROFILE&fontSize=25&fontColor=F7E8E5&fontAlign=50&fontAlignY=55"/>
 </p>
-
-<div align="center">
 
 <table align="center" width="100%">
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="middle">
 
-<h3>EDUCATION</h3>
+<img src="https://img.shields.io/badge/EDUCATION-351021?style=for-the-badge&labelColor=702B48&color=351021"/>
+
+<br/><br/>
 
 B.Tech in Computer Science & Engineering
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="middle">
 
-<h3>ACADEMIC PERFORMANCE</h3>
+<img src="https://img.shields.io/badge/ACADEMIC_PERFORMANCE-351021?style=for-the-badge&labelColor=702B48&color=351021"/>
 
-<strong>9.04 CGPA</strong>
+<br/><br/>
+
+**9.04 CGPA**
 
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="middle">
 
-<h3>CURRENT ROLE</h3>
+<img src="https://img.shields.io/badge/CURRENT_ROLE-351021?style=for-the-badge&labelColor=702B48&color=351021"/>
+
+<br/><br/>
 
 Digital Specialist Engineer @ Infosys
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="middle">
 
-<h3>PRIMARY FOCUS</h3>
+<img src="https://img.shields.io/badge/PRIMARY_FOCUS-351021?style=for-the-badge&labelColor=702B48&color=351021"/>
+
+<br/><br/>
 
 Backend Engineering & Full Stack Development
 
@@ -56,7 +61,9 @@ Backend Engineering & Full Stack Development
 <tr>
 <td colspan="2" align="center">
 
-<h3>CORE INTERESTS</h3>
+<img src="https://img.shields.io/badge/CORE_INTERESTS-351021?style=for-the-badge&labelColor=702B48&color=351021"/>
+
+<br/><br/>
 
 REST APIs · Scalable Applications · Data Structures and Algorithms
 
@@ -65,7 +72,9 @@ REST APIs · Scalable Applications · Data Structures and Algorithms
 <tr>
 <td colspan="2" align="center">
 
-<h3>AVAILABILITY</h3>
+<img src="https://img.shields.io/badge/AVAILABILITY-351021?style=for-the-badge&labelColor=702B48&color=351021"/>
+
+<br/><br/>
 
 Open to Freelance & Collaboration
 
@@ -73,43 +82,48 @@ Open to Freelance & Collaboration
 </tr>
 </table>
 
-</div>
-
 ---
 
-<!-- TECH STACK -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=000000&height=65&text=TECH%20STACK&fontSize=28&fontColor=C58A9E&fontAlignY=55&desc=TECHNOLOGIES%20%26%20TOOLS&descSize=10&descColor=B58A70"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:351021,100:702B48&height=58&section=header&text=TECH%20STACK&fontSize=25&fontColor=F7E8E5&fontAlign=50&fontAlignY=55"/>
 </p>
 
 <table align="center" width="100%">
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="middle">
 
-<h3>PROGRAMMING LANGUAGES</h3>
+<img src="https://img.shields.io/badge/PROGRAMMING_LANGUAGES-351021?style=for-the-badge&labelColor=702B48&color=351021"/>
+
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript&theme=dark"/>
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="middle">
 
-<h3>FRONTEND DEVELOPMENT</h3>
+<img src="https://img.shields.io/badge/FRONTEND_DEVELOPMENT-351021?style=for-the-badge&labelColor=702B48&color=351021"/>
+
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=react&theme=dark"/>
 
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="middle">
 
-<h3>BACKEND DEVELOPMENT</h3>
+<img src="https://img.shields.io/badge/BACKEND_DEVELOPMENT-351021?style=for-the-badge&labelColor=702B48&color=351021"/>
+
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=spring,fastapi&theme=dark"/>
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="middle">
 
-<h3>DATABASES & CACHING</h3>
+<img src="https://img.shields.io/badge/DATABASES_AND_CACHING-351021?style=for-the-badge&labelColor=702B48&color=351021"/>
+
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark"/>
 
@@ -118,7 +132,9 @@ Open to Freelance & Collaboration
 <tr>
 <td colspan="2" align="center">
 
-<h3>TOOLS & PLATFORMS</h3>
+<img src="https://img.shields.io/badge/TOOLS_AND_PLATFORMS-351021?style=for-the-badge&labelColor=702B48&color=351021"/>
+
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=dark"/>
 
@@ -128,16 +144,17 @@ Open to Freelance & Collaboration
 
 ---
 
-<!-- WHAT I BUILD -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=000000&height=65&text=WHAT%20I%20BUILD&fontSize=28&fontColor=B58A70&fontAlignY=55&desc=AREAS%20OF%20EXPERTISE&descSize=10&descColor=D9B5C1"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:351021,100:702B48&height=58&section=header&text=WHAT%20I%20BUILD&fontSize=25&fontColor=F7E8E5&fontAlign=50&fontAlignY=55"/>
 </p>
 
 <table align="center" width="100%">
 <tr>
 <td width="50%" align="center" valign="top">
 
-<h3>BACKEND ENGINEERING</h3>
+<img src="https://img.shields.io/badge/BACKEND_ENGINEERING-351021?style=for-the-badge&labelColor=702B48&color=351021"/>
+
+<br/><br/>
 
 <p align="left">
 
@@ -151,7 +168,9 @@ Open to Freelance & Collaboration
 </td>
 <td width="50%" align="center" valign="top">
 
-<h3>FULL STACK DEVELOPMENT</h3>
+<img src="https://img.shields.io/badge/FULL_STACK_DEVELOPMENT-351021?style=for-the-badge&labelColor=702B48&color=351021"/>
+
+<br/><br/>
 
 <p align="left">
 
@@ -167,7 +186,9 @@ Open to Freelance & Collaboration
 <tr>
 <td width="50%" align="center" valign="top">
 
-<h3>DATABASE MANAGEMENT</h3>
+<img src="https://img.shields.io/badge/DATABASE_MANAGEMENT-351021?style=for-the-badge&labelColor=702B48&color=351021"/>
+
+<br/><br/>
 
 <p align="left">
 
@@ -180,7 +201,9 @@ Open to Freelance & Collaboration
 </td>
 <td width="50%" align="center" valign="top">
 
-<h3>PROBLEM SOLVING</h3>
+<img src="https://img.shields.io/badge/PROBLEM_SOLVING-351021?style=for-the-badge&labelColor=702B48&color=351021"/>
+
+<br/><br/>
 
 <p align="left">
 
@@ -196,43 +219,50 @@ Open to Freelance & Collaboration
 
 ---
 
-<!-- FREELANCE & COLLABORATION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=000000&height=65&text=FREELANCE%20%26%20COLLABORATION&fontSize=23&fontColor=C58A9E&fontAlignY=55&desc=PROJECTS%20%26%20COLLABORATIONS&descSize=10&descColor=B58A70"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:351021,100:702B48&height=58&section=header&text=FREELANCE%20%26%20COLLABORATION&fontSize=23&fontColor=F7E8E5&fontAlign=50&fontAlignY=55"/>
 </p>
 
 <p align="center">
-  <strong>OPEN TO FREELANCE PROJECTS & COLLABORATIONS</strong>
+  <img src="https://img.shields.io/badge/OPEN_TO_FREELANCE_PROJECTS_%26_COLLABORATIONS-B58A70?style=for-the-badge&labelColor=351021&color=B58A70"/>
 </p>
 
 <table align="center" width="100%">
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="middle">
 
-<h3>BACKEND API DEVELOPMENT</h3>
+<img src="https://img.shields.io/badge/BACKEND_API_DEVELOPMENT-351021?style=flat&labelColor=702B48&color=351021"/>
+
+<br/><br/>
 
 Spring Boot and FastAPI
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="middle">
 
-<h3>FULL-STACK APPLICATIONS</h3>
+<img src="https://img.shields.io/badge/FULL_STACK_APPLICATIONS-351021?style=flat&labelColor=702B48&color=351021"/>
+
+<br/><br/>
 
 React and REST APIs
 
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="middle">
 
-<h3>DATABASE DEVELOPMENT</h3>
+<img src="https://img.shields.io/badge/DATABASE_DEVELOPMENT-351021?style=flat&labelColor=702B48&color=351021"/>
+
+<br/><br/>
 
 Database-driven applications
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="middle">
 
-<h3>COLLABORATIVE DEVELOPMENT</h3>
+<img src="https://img.shields.io/badge/COLLABORATIVE_DEVELOPMENT-351021?style=flat&labelColor=702B48&color=351021"/>
+
+<br/><br/>
 
 Software development projects
 
@@ -241,17 +271,6 @@ Software development projects
 </table>
 
 ---
-
-<!-- CONNECT -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=000000&height=65&text=CONNECT&fontSize=28&fontColor=B58A70&fontAlignY=55"/>
-</p>
-
-<p align="center">
-  <a href="https://portfolio-ashen-iota-63.vercel.app/">Portfolio</a>
-  &nbsp; ✦ &nbsp;
-  <a href="mailto:r.s.susritha@gmail.com">Email</a>
-</p>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B58A70,35:702B48,70:351021,100:130911&height=115&section=footer"/>
